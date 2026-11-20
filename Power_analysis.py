@@ -9,10 +9,10 @@ import matplotlib.pyplot as plt
 # ============================================================
 
 # Aircraft parameters
-m = 310.0                  # kg
+m = 10.0                  # kg
 Cl = 1.10                  # -
-b = 46.77                   # m
-S = 146.0                  # m^2
+b = 5                   # m
+S = 2.0                  # m^2
 Q = 1.2                    # Form factor multiplier
 t_c = 0.1214               # Maximum thickness / chord
 e = 0.85                   # Oswald efficiency
